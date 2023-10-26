@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/54a40440-ac45-42f0-ae98-c749931fab3e/resourceGroups/appsvc_linux_centralus/providers/Microsoft.Web/sites/WealthSmythAPI",
+    "appService.deploySubpath": "."
+}
